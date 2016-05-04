@@ -1,6 +1,8 @@
 #include "test/SampleRenderer.h"
-#include "stdio.h"
-#include "stddef.h"
+#include <stdio.h>
+#include <stddef.h>
+#include <iostream>
+#include <string>
 
 namespace sdltest {
 
